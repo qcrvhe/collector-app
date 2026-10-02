@@ -220,7 +220,7 @@ public class Quest
         return bar;
     }
 
-// adding a comment
+
     public String toString()
     {
         String status = "";
